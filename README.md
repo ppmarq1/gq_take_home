@@ -66,4 +66,4 @@ Prerequesites:
 
 ## Testing
 
-There are currently two areas tested - the controllers and basic system tests. It is expected that the test suite will be extended to support your new functionality. 
+There are currently two areas tested - the controllers and basic system tests. It is expected that the test suite will be extended to support your new functionality.. 
