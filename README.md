@@ -58,11 +58,7 @@ Prerequesites:
 8. Pages `/setup` and `/redeem` are implemented in `app/javascript/components/ResearcherApp` and `CandidateApp` respectively
 
 
-## Out of scope
 
-- Authentication is not required.
-- Any excessive styling beyond making the app usable.
-- Sophisticated error handling in the frontend app is not necessary.
 
 ## Testing
 
